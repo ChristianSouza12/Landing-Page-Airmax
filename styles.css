@@ -185,7 +185,7 @@ h1{
         &:after{
           transform: translateX(300px) skewX(-15deg);  
           opacity: 1;
-          transition: .7s;
+          transition: 0.7s;
         }
       }
     }
